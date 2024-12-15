@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://brimskylightrepairs.xyz/sitemap_index.xml
